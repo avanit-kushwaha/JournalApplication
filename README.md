@@ -1,0 +1,1 @@
+The Journal App is a backend RESTful API developed using Spring Boot that allows users to manage personal journal entries securely. Each user can register, log in via Basic Authentication, and perform standard CRUD operations on their own journal entries. This project emphasizes user-level data security and access control using Spring Security.
